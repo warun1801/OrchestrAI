@@ -1,7 +1,3 @@
-Perfect! Then let’s update your README to use **OrchestrAI** instead of AgentForge and tweak a few places so it reads naturally. Here’s the polished version:
-
----
-
 ````markdown
 # OrchestrAI 🎯
 
